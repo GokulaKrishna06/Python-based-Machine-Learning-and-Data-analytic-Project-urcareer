@@ -1,0 +1,51 @@
+user_id,name,experience_years,skills,location
+1,John Doe,5,Python;Machine Learning;Data Analysis;R,New York
+2,Jane Smith,3,Java;Spring;Microservices;Docker,San Francisco
+3,Bob Johnson,7,HTML;CSS;JavaScript;React,Los Angeles
+4,Alice Williams,2,SQL;Tableau;Excel;Data Analysis,Chicago
+5,Michael Brown,10,AWS;Jenkins;Kubernetes;CI/CD,Seattle
+6,Emily Davis,4,Agile;Scrum;Product Management;JIRA,Austin
+7,David Wilson,6,UX;User Research;Wireframing;Sketch,Boston
+8,Jessica Garcia,8,Linux;Bash;Network Security;Python,New York
+9,Chris Martinez,1,Swift;Kotlin;Mobile Development;UI/UX,San Francisco
+10,Patricia Anderson,9,Hadoop;Spark;ETL;Python,Chicago
+11,Mark Thompson,5,Digital Marketing;SEO;Google Analytics;Content Creation,Los Angeles
+12,Sarah Lewis,3,Cybersecurity;Threat Detection;SIEM;Network Security,Dallas
+13,Paul Walker,8,Sales Strategies;CRM;Lead Generation;Negotiation,Boston
+14,Linda Hall,4,Recruitment;Employee Relations;HRIS;Performance Management,Austin
+15,Robert Allen,6,Project Management;PMP;Risk Management;MS Project,Seattle
+16,Karen Young,7,Deep Learning;NLP;Python;TensorFlow,San Francisco
+17,James Hernandez,2,Azure;Cloud Architecture;DevOps;Docker,Chicago
+18,Laura King,10,Oracle;MySQL;Database Administration;SQL,Dallas
+19,Kevin Wright,4,JavaScript;React;Node.js;MongoDB,Austin
+20,Donna Scott,9,Adobe Creative Suite;Graphic Design;Illustration;Photoshop,Los Angeles
+21,George Hill,3,Technical Writing;CMS;SEO;Content Strategy,San Francisco
+22,Susan Green,5,Operations Management;Lean;Six Sigma;Process Improvement,New York
+23,Charles Adams,7,Financial Modeling;Investment Analysis;Excel;Finance,Chicago
+24,Mary Baker,8,Corporate Law;Contract Negotiation;Legal Research;Compliance,Dallas
+25,Thomas Gonzalez,6,Healthcare Management;Policy;Budgeting;Compliance,Austin
+26,Patricia Nelson,4,Python;scikit-learn;Machine Learning;Data Science,New York
+27,Jennifer Carter,2,Customer Service;Support Tickets;CRM;Communication,Boston
+28,Daniel Mitchell,5,E-commerce;Digital Marketing;SEO;Google Analytics,Los Angeles
+29,Elizabeth Perez,7,Laboratory Research;Data Analysis;Scientific Writing;Research Methods,San Francisco
+30,Matthew Roberts,3,Technical Support;Network Troubleshooting;Customer Support;Linux,Chicago
+31,Anthony Turner,9,Environmental Impact Assessment;Sustainability;GIS;Environmental Engineering,Dallas
+32,Barbara Phillips,6,CAD;Mechanical Design;SolidWorks;Manufacturing,Austin
+33,Linda Campbell,4,Circuit Design;Power Systems;Electrical Engineering;AutoCAD,New York
+34,Steven Parker,5,Structural Engineering;Project Management;AutoCAD;Civil Engineering,Boston
+35,Jessica Evans,8,Data Modeling;Database Design;SQL;ETL,Los Angeles
+36,Edward Edwards,3,Robotic Systems;Automation;C++;ROS,San Francisco
+37,Elizabeth Collins,6,Medical Device Design;Testing;Biomedical Engineering;Regulatory Compliance,Chicago
+38,Christopher Stewart,4,Artificial Intelligence;Machine Learning;Python;TensorFlow,Dallas
+39,Rebecca Sanchez,7,Economic Modeling;Policy Analysis;Econometrics;Research,Austin
+40,Donald Morris,2,Logistics;Inventory Management;Supply Chain;ERP,New York
+41,Michelle Rogers,5,Unity;C#;Game Development;3D Modeling,Boston
+42,Kenneth Reed,6,Network Security;Ethical Hacking;Penetration Testing;SIEM,Los Angeles
+43,Amy Cook,7,IoT;Embedded Programming;C++;Arduino,San Francisco
+44,Angela Morgan,9,Process Engineering;Chemical Safety;HPLC;Chemical Engineering,Chicago
+45,Dorothy Bell,8,Agricultural Systems;Environmental Sustainability;Soil Science;Hydrology,Dallas
+46,Jason Murphy,5,Materials Characterization;Nanotechnology;Research;Materials Science,Austin
+47,Betty Bailey,10,Risk Assessment;Actuarial Modeling;Statistics;Finance,New York
+48,Ruth Rivera,4,Pharmaceutical Care;Patient Counseling;Pharmacy;Medication Management,Boston
+49,Joseph Foster,6,Eye Care;Vision Therapy;Optometry;Patient,Los Angeles
+50,Sandra Howard,3,Web Development;HTML;CSS;JavaScript;Angular,San Francisco
